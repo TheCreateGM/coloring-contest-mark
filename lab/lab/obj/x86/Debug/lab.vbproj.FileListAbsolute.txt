@@ -1,0 +1,9 @@
+C:\Users\axogm\Documents\Projects\labtask4(2010)\lab\lab\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\axogm\Documents\Projects\labtask4(2010)\lab\lab\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\axogm\Documents\Projects\labtask4(2010)\lab\lab\obj\x86\Debug\lab.vbproj.GenerateResource.Cache
+C:\Users\axogm\Documents\Projects\labtask4(2010)\lab\lab\bin\Debug\lab.exe
+C:\Users\axogm\Documents\Projects\labtask4(2010)\lab\lab\bin\Debug\lab.pdb
+C:\Users\axogm\Documents\Projects\labtask4(2010)\lab\lab\bin\Debug\lab.xml
+C:\Users\axogm\Documents\Projects\labtask4(2010)\lab\lab\obj\x86\Debug\lab.exe
+C:\Users\axogm\Documents\Projects\labtask4(2010)\lab\lab\obj\x86\Debug\lab.xml
+C:\Users\axogm\Documents\Projects\labtask4(2010)\lab\lab\obj\x86\Debug\lab.pdb
