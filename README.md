@@ -2,6 +2,8 @@
 
 This is a simple Windows Forms application developed in VB.NET using Visual Studio 2010 to track submissions for a coloring competition. It allows users to enter participant and jury details, assign marks in different categories, calculate a total mark, link a picture of the submission, and save/manage entries using a Microsoft Access database.
 
+![](main.png)
+
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
